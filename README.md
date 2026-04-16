@@ -1,16 +1,53 @@
-# React + Vite
+# Kareem Halaby | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my personal portfolio website. It serves as the digital interface for my work, showcasing my experience in **Software Engineering**, **Data Science**, and **Agentic Systems**.
 
-Currently, two official plugins are available:
+### 🛠 Tech Stack
+This project is built using a modern, performant frontend stack:
+* **Framework:** [React](https://reactjs.org/) (Powered by Vite)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons/Assets:** Lucide React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Purpose
+As a Software and Data Science engineer, my core work involves building complex backend logic—from **ML pipelines** to **Data Ingestion systems**. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio is designed to:
+1.  **Expose** those backend capabilities through a clean, functional web interface.
+2.  **Demonstrate** my ability to deploy production-ready frontend environments.
+3.  **Provide** a central hub for my technical projects and professional background.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Installation & Local Development
+
+1.  **Clone the repo:**
+    ```bash
+    git clone https://github.com/Kemogaber/Portfolio.git
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run in development mode:**
+    ```bash
+    npm run dev
+    ```
+4.  **Build for production:**
+    ```bash
+    npm run build
+    ```
+
+---
+
+## 🏗 Key Features
+* **Responsive UI:** Optimized for all screen sizes using Tailwind's utility-first approach.
+* **Fast Loading:** Leverages Vite’s optimized build process for near-instant load times.
+* **Modular Components:** Clean, reusable React components for easy maintenance.
+
+---
+
+## 📫 Contact
+* **Live Portfolio:** [Link to site]
+* **LinkedIn:** https://github.com/Kemogaber/Portfolio.git
