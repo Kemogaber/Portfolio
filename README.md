@@ -50,4 +50,4 @@ This portfolio is designed to:
 
 ## 📫 Contact
 * **Live Portfolio:** [Link to site]
-* **LinkedIn:** https://github.com/Kemogaber/Portfolio.git
+* **LinkedIn:** https://www.linkedin.com/in/kareem-halaby-875b38288/
