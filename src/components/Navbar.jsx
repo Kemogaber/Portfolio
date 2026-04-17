@@ -17,7 +17,7 @@ const Navbar = () => {
     
     useEffect(()=>{
         const handlescroll = ()=>{
-            setScrolled(window.screenY>10)
+            setScrolled(window.scrollY>10)
         };
 
         window.addEventListener("scroll",handlescroll);
@@ -59,7 +59,7 @@ const Navbar = () => {
         </button>
 
         <div className={cn(
-            "fixed inset-0 bg-background/95 backdroup-blur-md z-40 flex flex-col items-center justify-center",
+            "fixed inset-0 bg-background/95 backdrop-blur-md z-40 flex flex-col items-center justify-center",
             "transition-all duration-300 md:hidden",
             isMenuOpen
               ? "opacity-100 pointer-events-auto"
