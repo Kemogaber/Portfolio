@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { cn } from '../lib/utils'
 import { Menu, X } from 'lucide-react'
+import ThemeToggle from './ThemeToggle'
 
 const navItems=[
     {name:'Home','href':'#hero'},
@@ -46,6 +47,7 @@ const Navbar = () => {
             {navItems.map((item,key)=> (
             <a key={key} href={item.href} className='text-foreground/80 hover:text-primary transition-colors duration-300'>{item.name}</a>
             ))}
+            <ThemeToggle/>
         </div>
         
         <button
