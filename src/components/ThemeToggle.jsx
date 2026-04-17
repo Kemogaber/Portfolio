@@ -31,8 +31,12 @@ const ThemeToggle = () => {
     <button
       onClick={ToggleTheme}
       className={cn(
-        "max-sm:hidden z-50 p-2 rounded-full transition-colors duration-300",
-        "focus:outlin-hidden",
+        "max-sm:hidden z-50 p-3 rounded-full transition-all duration-300",
+        "bg-white/10 backdrop-blur-sm border border-white/20",
+        "hover:bg-white/20 hover:border-white/30 hover:scale-110",
+        "focus:outline-none focus:ring-2 focus:ring-white/50",
+        "dark:bg-black/10 dark:border-black/20",
+        "dark:hover:bg-black/20 dark:hover:border-black/30 dark:focus:ring-black/50",
       )}
     >
       {isDarkmode ? (

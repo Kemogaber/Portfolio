@@ -7,7 +7,7 @@ const projects = [
     title: "Compiler Scanner and Parser",
     description:
       "a tiny language scanner and parser that does lexical anaylsis and transforms tokens to tree using EBNF rules",
-    image: "/projects/parser.png",
+    image: "/Portfolio/projects/parser.png",
     tags: ["Python", "Tkinter", "Graphviz"],
     githubUrl: "https://github.com/Kemogaber/Tiny-Language-Scanner-and-Parser",
   },
@@ -16,7 +16,7 @@ const projects = [
     title: "Frozen Lake RL DQN",
     description:
       "A reinforcment learning DQN environment that solves frozen lake using Q-Learning",
-    image: "/projects/DQN.png",
+    image: "/Portfolio/projects/DQN.png",
     tags: ["DQN", "Q-Learning", "Reinforcement Learning"],
     githubUrl: "https://github.com/Kemogaber/Q-Learning",
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "Quordior Game",
     description:
       "a Quoridor Game with multiple Ai difficulties and redo/undo feature",
-    image: "/projects/Quoridor_Game.png",
+    image: "/Portfolio/projects/Quoridor_Game.png",
     tags: ["Qt", "Design Patterns", "Adversial Search"],
     githubUrl: "https://github.com/Kemogaber/Quoridor-Arena",
   },

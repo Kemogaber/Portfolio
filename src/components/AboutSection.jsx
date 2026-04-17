@@ -14,22 +14,21 @@ const AboutSection = () => {
               Passionate Data Scientest & Tech Creator
             </h3>
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              Software Engineer specializing in Generative AI and Machine
+              Learning. I build secure, high-performance applications using LLM
+              architectures and Agentic systems.
             </p>
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              Passionate about solving complex challenges with intelligent
+              systems. I research Generative AI to deliver robust,
+              production-ready software.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
                 Get In Touch
               </a>
               <a
-                href="src/Assets/Kareem Halaby CV.pdf"
+                href="/Portfolio/projects/Kareem Halaby CV.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
@@ -43,10 +42,12 @@ const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Web Development</h4>
+                  <h4 className="font-semibold text-lg">
+                    AI & Intelligent Systems
+                  </h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Deploying secure production APIs for Agentic AI and
+                    LLM-powered systems.
                   </p>
                 </div>
               </div>
@@ -57,10 +58,10 @@ const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Interface Design</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Building intuitive GUIs and dashboards to simplify complex
+                    data and AI workflows.
                   </p>
                 </div>
               </div>
@@ -71,10 +72,12 @@ const AboutSection = () => {
                   <Briefcase className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">
+                    Technical Leadership
+                  </h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Leading engineering teams from research to deployment for
+                    production-ready intelligent systems.
                   </p>
                 </div>
               </div>
